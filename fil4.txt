@@ -1,0 +1,11 @@
+This is sample file for todays smaple work  
+for Kubernetes demostration
+Give link for furtur communication
+please accept linked sevices address
+Name: Kanaka Rao
+Designation: Devops Engineer()
+Id  :PI/S-41818
+
+please send responce via email only
+
+
