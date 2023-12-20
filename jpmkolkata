@@ -1,0 +1,238 @@
+JpmorganCelebrating the stories of inclusivity, passion, and resilience of those who rise to the challenge and inspire us every day.
+In the kolkata region to active all demostrations to give up to main office.
+
+jaswanth@LAPTOP-00C4E6QH MINGW64 /c/E/Devops/git (master)
+$ ipconfig
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Local Area Connection* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . :
+   IPv6 Address. . . . . . . . . . . : 2401:4900:4e0b:8628:7d80:1d9b:3ad7:e654
+   Temporary IPv6 Address. . . . . . : 2401:4900:4e0b:8628:65b3:65e5:efcc:b189
+   Link-local IPv6 Address . . . . . : fe80::287:b67d:1b75:b2f3%17
+   IPv4 Address. . . . . . . . . . . : 192.168.218.133
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : fe80::f077:9cff:fe9e:fb5c%17
+                                       192.168.218.7
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+jaswanth@LAPTOP-00C4E6QH MINGW64 /c/E/Devops/git (master)
+$ netstat
+
+Active Connections
+
+  Proto  Local Address          Foreign Address        State
+  TCP    127.0.0.1:1521         LAPTOP-00C4E6QH:49680  ESTABLISHED
+  TCP    127.0.0.1:1522         LAPTOP-00C4E6QH:49678  ESTABLISHED
+  TCP    127.0.0.1:1523         LAPTOP-00C4E6QH:49682  ESTABLISHED
+  TCP    127.0.0.1:49678        LAPTOP-00C4E6QH:1522   ESTABLISHED
+  TCP    127.0.0.1:49680        LAPTOP-00C4E6QH:1521   ESTABLISHED
+  TCP    127.0.0.1:49682        LAPTOP-00C4E6QH:1523   ESTABLISHED
+  TCP    192.168.218.133:49411  20.198.119.84:https    ESTABLISHED
+  TCP    192.168.218.133:49412  20.198.119.143:https   ESTABLISHED
+  TCP    192.168.218.133:56160  20.212.88.117:https    ESTABLISHED
+  TCP    192.168.218.133:56256  5:7500                 ESTABLISHED
+  TCP    192.168.218.133:58738  a23-55-108-65:https    ESTABLISHED
+  TCP    192.168.218.133:58740  20.207.73.82:https     ESTABLISHED
+  TCP    192.168.218.133:58741  lb-140-82-113-25-iad:https  ESTABLISHED
+  TCP    192.168.218.133:62895  1:https                ESTABLISHED
+  TCP    [2401:4900:4e0b:8628:65b3:65e5:efcc:b189]:58538  sd-in-f188:5228        ESTABLISHED
+  TCP    [2401:4900:4e0b:8628:65b3:65e5:efcc:b189]:58559  dns:https              ESTABLISHED
+
+jaswanth@LAPTOP-00C4E6QH MINGW64 /c/E/Devops/git (master)
+$  netstat
+
+Active Connections
+
+  Proto  Local Address          Foreign Address        State
+  TCP    127.0.0.1:1521         LAPTOP-00C4E6QH:49680  ESTABLISHED
+  TCP    127.0.0.1:1522         LAPTOP-00C4E6QH:49678  ESTABLISHED
+  TCP    127.0.0.1:1523         LAPTOP-00C4E6QH:49682  ESTABLISHED
+  TCP    127.0.0.1:49678        LAPTOP-00C4E6QH:1522   ESTABLISHED
+  TCP    127.0.0.1:49680        LAPTOP-00C4E6QH:1521   ESTABLISHED
+  TCP    127.0.0.1:49682        LAPTOP-00C4E6QH:1523   ESTABLISHED
+  TCP    192.168.218.133:49411  20.198.119.84:https    ESTABLISHED
+  TCP    192.168.218.133:49412  20.198.119.143:https   ESTABLISHED
+  TCP    192.168.218.133:56160  20.212.88.117:https    ESTABLISHED
+  TCP    192.168.218.133:56256  5:7500                 ESTABLISHED
+  TCP    192.168.218.133:58741  lb-140-82-113-25-iad:https  ESTABLISHED
+  TCP    192.168.218.133:62895  1:https                ESTABLISHED
+  TCP    192.168.218.133:62917  whatsapp-chatd-edge-shv-01-hyd1:https  TIME_WAIT
+  TCP    192.168.218.133:62923  maa03s46-in-f14:https  ESTABLISHED
+  TCP    192.168.218.133:62927  a23-55-108-65:https    ESTABLISHED
+  TCP    192.168.218.133:62928  ec2-3-6-211-252:https  ESTABLISHED
+  TCP    [2401:4900:4e0b:8628:65b3:65e5:efcc:b189]:58538  sd-in-f188:5228        ESTABLISHED
+  TCP    [2401:4900:4e0b:8628:65b3:65e5:efcc:b189]:62918  dns:https              ESTABLISHED
+  TCP    [2401:4900:4e0b:8628:65b3:65e5:efcc:b189]:62921  g2600-140f-a800-0000-0000-0000-17c8-ef08:https  ESTABLISHED
+  TCP    [2401:4900:4e0b:8628:65b3:65e5:efcc:b189]:62922  maa05s19-in-x0a:https  ESTABLISHED
+  TCP    [2401:4900:4e0b:8628:65b3:65e5:efcc:b189]:62925  [2600:1f18:2148:bc00:a518:1574:fea8:ccdb]:https  CLOSE_WAIT
+
+jaswanth@LAPTOP-00C4E6QH MINGW64 /c/E/Devops/git (master)
+$ git log
+commit c0016a4b0246ee80c7df35bce84147d215405c9e (HEAD -> master, origin/master)
+Author: kanaks <promoteindiaa@gmail.com>
+Date:   Tue Dec 19 17:58:32 2023 +0530
+
+    JP Morgans-india all states in india especially Kolkata and mumbi regions
+
+commit f5b4bd5bd826da697579cc5e23486eced5b6b499
+Author: kanaks <promoteindiaa@gmail.com>
+Date:   Tue Dec 19 17:50:33 2023 +0530
+
+    JP Morgans  Australia region commit
+
+commit 9887097d903e53df9c3b16d895ca87a08db2baf1
+Author: kanaks <promoteindiaa@gmail.com>
+Date:   Tue Dec 19 17:48:28 2023 +0530
+
+    This is jpmorgan america region commit
+
+commit 5624f50bbb14f0470512b2c2f3cca0af28ef3629
+Author: kanaks <promoteindiaa@gmail.com>
+Date:   Tue Dec 19 17:40:55 2023 +0530
+
+    This is fil1.doc commit
+
+commit 9aa1d7de87030cd8da35f6440ed0d7ea857962c4
+Author: kanaks <promoteindiaa@gmail.com>
+Date:   Tue Dec 19 17:39:48 2023 +0530
+
+    This is fil2.doc commit file
+
+commit 89cc040e15861c0e8bd018a6920b368326949e18
+Author: kanaks <promoteindiaa@gmail.com>
+Date:   Tue Dec 19 17:38:07 2023 +0530
+
+    This is fil2.txt commit
+
+commit 92de3f5a76104187693c3f7be773a5a45bed327c
+Author: kanaks <promoteindiaa@gmail.com>
+Date:   Tue Dec 19 17:31:22 2023 +0530
+
+    This is fil3.doc commit
+
+commit 83e8fd3a8f125f0992cb4c74ffeffde82e44e47f
+Author: kanaks <promoteindiaa@gmail.com>
+Date:   Tue Dec 19 17:25:36 2023 +0530
+
+    This is file3 commit
+
+commit 5086e8d6662740b09d7c0c5ff2f1e6de2ecd648a
+Author: kanaks <promoteindiaa@gmail.com>
+Date:   Tue Dec 19 17:20:02 2023 +0530
+
+    fil4.txt file commit
+
+commit 08ece8971b5cebb86f5372b457c16b4d726a4e7e
+Author: kanaks <promoteindiaa@gmail.com>
+Date:   Tue Dec 19 16:58:23 2023 +0530
+
+    first commit
+
+commit 8c44dfd2da155e7e474ab1d13387125d20337049
+Author: promoteindia <promoteindiaa@gmail.com>
+Date:   Tue Jul 11 10:41:22 2023 +0530
+
+    This is last commite
+
+commit 03b1c4e0b12c10ff1dffde821e12210fd91115ed
+Author: promoteindia <promoteindiaa@gmail.com>
+Date:   Mon Jul 10 11:36:26 2023 +0530
+
+    1st--fil1.txt--rep-5
+
+jaswanth@LAPTOP-00C4E6QH MINGW64 /c/E/Devops/git (master)
+$ ls -ltra
+total 23
+-rw-r--r-- 1 jaswanth 197121 117 Jul 10 11:29 fil1.txt
+-rw-r--r-- 1 jaswanth 197121   0 Jul 10 11:30 fil2.txt
+-rw-r--r-- 1 jaswanth 197121   0 Jul 10 11:31 fil1.doc
+-rw-r--r-- 1 jaswanth 197121   0 Jul 10 11:31 fil2.doc
+-rw-r--r-- 1 jaswanth 197121   0 Jul 10 11:31 fil3.doc
+-rw-r--r-- 1 jaswanth 197121  71 Jul 11 10:39 fil6.txt
+drwxr-xr-x 1 jaswanth 197121   0 Sep 29 20:59 ../
+-rw-r--r-- 1 jaswanth 197121   0 Dec 18 10:09 dec18sample.txt
+-rw-r--r-- 1 jaswanth 197121   0 Dec 18 10:10 dec18smaple.txt
+-rw-r--r-- 1 jaswanth 197121 248 Dec 18 10:26 fil4.txt
+-rw-r--r-- 1 jaswanth 197121 117 Dec 18 18:08 fil3.txt
+-rw-r--r-- 1 jaswanth 197121  94 Dec 19 16:48 jpmorgan-india
+-rw-r--r-- 1 jaswanth 197121  75 Dec 19 16:54 jpmorgan.txt
+drwxr-xr-x 1 jaswanth 197121   0 Dec 19 17:52 ./
+-rw-r--r-- 1 jaswanth 197121  81 Dec 19 17:54 jpdelhi.txt
+drwxr-xr-x 1 jaswanth 197121   0 Dec 20 09:00 .git/
+
+jaswanth@LAPTOP-00C4E6QH MINGW64 /c/E/Devops/git (master)
+$ ls -ltra
+total 23
+-rw-r--r-- 1 jaswanth 197121 117 Jul 10 11:29 fil1.txt
+-rw-r--r-- 1 jaswanth 197121   0 Jul 10 11:30 fil2.txt
+-rw-r--r-- 1 jaswanth 197121   0 Jul 10 11:31 fil1.doc
+-rw-r--r-- 1 jaswanth 197121   0 Jul 10 11:31 fil2.doc
+-rw-r--r-- 1 jaswanth 197121   0 Jul 10 11:31 fil3.doc
+-rw-r--r-- 1 jaswanth 197121  71 Jul 11 10:39 fil6.txt
+drwxr-xr-x 1 jaswanth 197121   0 Sep 29 20:59 ../
+-rw-r--r-- 1 jaswanth 197121   0 Dec 18 10:09 dec18sample.txt
+-rw-r--r-- 1 jaswanth 197121   0 Dec 18 10:10 dec18smaple.txt
+-rw-r--r-- 1 jaswanth 197121 248 Dec 18 10:26 fil4.txt
+-rw-r--r-- 1 jaswanth 197121 117 Dec 18 18:08 fil3.txt
+-rw-r--r-- 1 jaswanth 197121  94 Dec 19 16:48 jpmorgan-india
+-rw-r--r-- 1 jaswanth 197121  75 Dec 19 16:54 jpmorgan.txt
+drwxr-xr-x 1 jaswanth 197121   0 Dec 19 17:52 ./
+-rw-r--r-- 1 jaswanth 197121  81 Dec 19 17:54 jpdelhi.txt
+drwxr-xr-x 1 jaswanth 197121   0 Dec 20 09:00 .git/
+
+jaswanth@LAPTOP-00C4E6QH MINGW64 /c/E/Devops/git (master)
+$ ping google.com
+
+Pinging google.com [2404:6800:4007:822::200e] with 32 bytes of data:
+Reply from 2404:6800:4007:822::200e: time=48ms
+Reply from 2404:6800:4007:822::200e: time=46ms
+Reply from 2404:6800:4007:822::200e: time=37ms
+Reply from 2404:6800:4007:822::200e: time=42ms
+
+Ping statistics for 2404:6800:4007:822::200e:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 37ms, Maximum = 48ms, Average = 43ms
+
+jaswanth@LAPTOP-00C4E6QH MINGW64 /c/E/Devops/git (master)
+$ ping google.com
+
+Pinging google.com [2404:6800:4007:822::200e] with 32 bytes of data:
+Reply from 2404:6800:4007:822::200e: time=50ms
+Reply from 2404:6800:4007:822::200e: time=37ms
+Reply from 2404:6800:4007:822::200e: time=50ms
+Reply from 2404:6800:4007:822::200e: time=50ms
+
+Ping statistics for 2404:6800:4007:822::200e:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 37ms, Maximum = 50ms, Average = 46ms
+
+jaswanth@LAPTOP-00C4E6QH MINGW64 /c/E/Devops/git (master)
+$ cat >> jpmkolkata
+JpmorganCelebrating the stories of inclusivity, passion, and resilience of those who rise to the challenge and inspire us every day.
+In the kolkata region to active all demostrations to give up to main office.
+In the region of kolkata to achive all indan targets.
