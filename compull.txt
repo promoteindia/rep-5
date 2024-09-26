@@ -1,0 +1,5 @@
+compull is standared version of verification process.
+Compull stands for compare and pull request.
+compull is used for verification process of all dev applications.
+In developemet team frequently use for compull.
+The capplications verified to another team/ branch.
